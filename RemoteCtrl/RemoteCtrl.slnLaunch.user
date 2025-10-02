@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "新建配置文件",
+    "Projects": [
+      {
+        "Path": "RemoteCtrl\\RemoteCtrl.vcxproj",
+        "Action": "Start",
+        "DebugTarget": "本地 Windows 调试器"
+      },
+      {
+        "Path": "RemoteClient\\RemoteClient.vcxproj",
+        "Action": "Start",
+        "DebugTarget": "本地 Windows 调试器"
+      }
+    ]
+  }
+]
